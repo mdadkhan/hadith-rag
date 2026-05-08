@@ -6,7 +6,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-0.1%2B-green)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-1.5%2B-orange)
 ![Ollama](https://img.shields.io/badge/Ollama-local%20LLM-purple)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 Unified documentation for `ingest_bukhari_v1_lc.py` and `ingest_muslim_v1_lc.py`.
 
@@ -732,10 +731,4 @@ chromadb  ollama  bm25  hybrid-search  nlp  python  local-llm
 sahih-bukhari  sahih-muslim  islamic-studies  pdf-parsing
 ```
 
----
 
-## License
-
-MIT License — free to use, modify, and distribute with attribution.
-
-See [LICENSE](LICENSE) for full terms.
